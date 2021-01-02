@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Shwetanshu Shekhar, an enthusiatic web deveoploper 
+I am Shwetanshu Shekhar, an enthusiatic web developer. Love creating web apps with  - `REACT JS , MERN Stack`
 
 Check Out Our Student Community Work: [VITrendz Community](www.vitrendz.tech)
 
