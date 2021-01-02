@@ -1,3 +1,4 @@
+
 ### Hey there! Keep innovating!🚀
 
 <!--
@@ -18,5 +19,7 @@ Here are some ideas to get you started:
 I am Shwetanshu Shekhar, an enthusiatic web deveoploper 
 
 Check Out Our Student Community Work: [VITrendz Community](www.vitrendz.tech)
+
 #### Self Profile Stats Check 
-![Github stats](https://github-readme-stats.vercel.app/api?username=shwetanshutech)
+
+![Shwetanshu's Self Check](https://github-readme-stats.vercel.app/api?username=shwetanshutech&theme=algolia&show_icons=true)
