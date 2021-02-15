@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ![](banner.png)
 
- #### I am Shwetanshu Shekhar an enthusiatic web developer. Love creating web apps with  - `REACT JS , MERN Stack`
+ #### I am Shwetanshu Shekhar,an enthusiatic web developer. Love creating web apps with  - `REACT JS , MERN Stack`
 
 Check Out Our Student Community Work: [VITrendz Community](www.vitrendz.tech)
 
