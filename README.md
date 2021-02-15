@@ -1,5 +1,5 @@
 
-### Hey there! Keep innovating!🚀
+### Keep innovating!🚀
 
 <!--
 **shwetanshutech/shwetanshutech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Shwetanshu Shekhar, an enthusiatic web developer. Love creating web apps with  - `REACT JS , MERN Stack`
+![](banner.png)
+
+ #### Enthusiatic Web developer. Love creating web apps with  - `REACT JS , MERN Stack`
 
 Check Out Our Student Community Work: [VITrendz Community](www.vitrendz.tech)
 
