@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Shwetanshu Shekhar . I am co-founder of a small student community driving outsized impact.
+I am Shwetanshu Shekhar . I am the co-founder of a small student community driving outsized impact.
 
 ### Check Out Our Student Community Work: [VITrendz](https://www.vitrendz.com/)
 <br/>
