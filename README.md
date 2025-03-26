@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Shwetanshu Shekhar
+I am Shwetanshu Shekhar . I am co-founder of a small student community sriving outsized impact.
 
 ### Check Out Our Student Community Work: [VITrendz](https://www.vitrendz.com/)
 
 #### Self Profile Stats Check 
 
-![Shwetanshu's Self Check](https://github-readme-stats.vercel.app/api?username=shwetanshutech&theme=algolia&show_icons=true)
+[<img align="left" src="https://github-readme-stats.vercel.app/api?username=shwetanshutech&show_icons=true&include_all_commits=true&theme=radical&count_private=true&hide_rank=true">](https://github.com/shwetanshutech)
