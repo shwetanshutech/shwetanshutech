@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I am Shwetanshu Shekhar,an enthusiatic developer. Enjoy making ideas live with  - `REACT JS , MERN Stack` and programming 
 
-### Check Out Our Student Community Work: [VITrendz](https://www.vitrendz.tech/)
+### Check Out Our Student Community Work: [VITrendz](https://www.vitrendz.com/)
 
 #### Self Profile Stats Check 
 
